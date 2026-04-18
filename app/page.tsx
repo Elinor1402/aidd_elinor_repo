@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            About me too
+            About me too 2
           </a>
         </div>
       </main>
